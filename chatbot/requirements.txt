@@ -1,0 +1,8 @@
+langchain-openai
+langchain-core
+python-dotenv
+streamlit
+langchain-community
+lanserver
+fastapi
+uvicorn
